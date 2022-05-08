@@ -9,8 +9,12 @@ tensorflow.keras.layers
 
 Topics:
 
-1.Perceptron- Single Layer Neural Network
+1. Feed Forward Neural Network/ Perceptron
 
-2.Convolutional Neural Network
+2. Convolutional Neural Network
 
-3.Recurrent Neural Network
+3. Recurrent Neural Network
+
+4. Generative Adversarial Network
+
+5. Transformers Network
