@@ -11,10 +11,10 @@ Topics:
 
 1. Feed Forward Neural Network/ Perceptron
 
-2. Convolutional Neural Network
+2. Convolutional Neural Network(CNN)
 
-3. Recurrent Neural Network
+3. Recurrent Neural Network (RNN)
 
-4. Generative Adversarial Network
+4. Generative Adversarial Network (GAN)
 
 5. Transformers Network
